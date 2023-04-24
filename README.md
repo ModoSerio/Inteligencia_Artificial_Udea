@@ -6,3 +6,6 @@ Manuela Zapata Cifuentes  	-Bioingeniería-	CC: 1040326871
 
 DataBase:
 https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database
+
+Video proyecto 2
+https://www.youtube.com/watch?v=0ul4E7sM58o
