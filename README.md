@@ -9,3 +9,6 @@ https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database
 
 Video proyecto 2
 https://www.youtube.com/watch?v=0ul4E7sM58o
+
+Video proyecto final
+https://www.youtube.com/watch?v=vjMuDuTKUWk&ab_channel=ANGELAMARIAG%C3%93MEZLONDO%C3%91O
